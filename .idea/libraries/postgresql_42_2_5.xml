@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="postgresql-42.2.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Sites/apache-tomcat-8.5.38/lib/postgresql-42.2.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
